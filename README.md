@@ -23,7 +23,7 @@
 11. [How to Run This Project](#how-to-run-this-project)
 12. [Business Recommendations](#business-recommendations)
 13. [Skills Demonstrated](#skills-demonstrated)
-12. [Skills Demonstrated](#skills-demonstrated)
+    
 
 ---
 
