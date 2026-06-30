@@ -29,7 +29,7 @@
 
 ## Project Overview
 
-### Note; All excel files( raw data, supply_chain_WORKING.xlsm and csv upload for postgres) are in this download link(https://drive.google.com/drive/folders/1fmv29CR_zV-cNUCGfY1v4CxH8SfJMahe?usp=sharing)
+### Note; All excel files( raw data, supply_chain_WORKING.xlsm and csv upload for postgres) are in this download link(https://drive.google.com/drive/folders/1fmv29CR_zV-cNUCGfY1v4CxH8SfJMahe?usp=sharing). Feel free to download for better check.
 
 
 This project simulates a real client engagement for **DataCo Global**, a multinational e-commerce and supply chain company operating across five regions — Pacific Asia, Europe, LATAM, USCA, and Africa. The brief was to analyse three years of supply chain transaction data, identify the root causes of operational underperformance, and deliver actionable business intelligence across three platforms.
@@ -161,7 +161,7 @@ DataCo-Global-Supply-Chain/
 ├── README.md                          ← This file
 │
 ├── Excel/
-│   └── supply_chain_WORKING.xlsm      ← Main workbook (macro-enabled)
+│   └──supply_chain_WORKING.xlsm      ← Main workbook (macro-enabled)
 │       ├── Changelog                  ← 19 documented cleaning decisions
 │       ├── Data_Dictionary            ← All 62 columns defined
 │       ├── Query_Documentation        ← Power Query pipeline documented
